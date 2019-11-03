@@ -18,6 +18,10 @@ Theory and practical implementations of the following:
 
 Link to the programme here: https://docs.google.com/document/d/1eVSboQHnooiu_RbV3bJwI4xL8dQ0HNHnbjYijpKg4oM/
 
+### Computing Information
+
+Link to the details of AIMS network and computers available here: https://drive.google.com/open?id=1wtfgonA6L_AAT0LV1cVXJD1MX9QxD7aq
+
 ## Target Audience
 
 Individuals who are familiar with Python programming and want to learn how to apply deep learning to solve a variety of problems. Individuals who are already familiar with deep learning will most likely not gain much knowledge as this will be an introductory workshop. Each day will contain theory and practical sessions.
