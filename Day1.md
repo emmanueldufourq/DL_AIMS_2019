@@ -1,5 +1,7 @@
 ## Day 1
 
+Register: https://docs.google.com/forms/d/e/1FAIpQLSdz3Dm-6lQNBaGsTvo0rZuLhrW2QQULRK_Bgazm9oaCiYkISg/viewform?usp=pp_url
+
 ## Python+Keras Code
 
 ### Categorical cross entropy
