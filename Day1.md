@@ -19,6 +19,9 @@ https://colab.research.google.com/drive/1-8JTpCxEW9IbFzbV7czce2y6QuGqhzmN
 ### Introduction to single variable regression Prac 2
 https://colab.research.google.com/drive/1NdooRfdqfuEa21-4aDlS_66P34Sp9MBi
 
+### Solution
+https://colab.research.google.com/drive/1ZvnLavCpw7RlWH0jwt-poBN9oZUjPMQh
+
 ### Introduction to single variable regression Prac 3
 https://colab.research.google.com/drive/1r31nINEW88qCWREcI1qBy1kPiZ_yS2k8
 
